@@ -27,4 +27,6 @@ int main() {
 	delete[] pos;  delete[] op;
 	fclose(stdin);  fclose(stdout);
 	return 0;
+
+	
 }
