@@ -1,7 +1,7 @@
 // #include "Node.h"
 
 // namespace LIST{
-
+/////////////////////////
 typedef int Rank;
 #define NodePos(T) Node<T>*
 
